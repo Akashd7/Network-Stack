@@ -1,2 +1,2 @@
 # Network Stack
- Will have Info on My network Stack/hardware/Backup Methods
+This repository is intended to be a list of my machines, their components, roles, and Backup Methods
