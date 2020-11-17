@@ -10,5 +10,7 @@
 2)Lenovo Z2 Plus
 3)LG G7
 4)Nokia 5.1
+5)LG g8x
+6) LG G7 Plus
 
 
